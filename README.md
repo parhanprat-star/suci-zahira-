@@ -91,14 +91,14 @@ button:hover{
 
     <br><br>
 
-    Aku nggak janji bisa selalu ngerti semua yang kamu rasakan,  
+  Aku nggak janji bisa selalu ngerti semua yang kamu rasakan,  
     tapi aku selalu berusaha ada di sisi yang tenang buat kamu.  
     Nggak harus banyak kata, nggak harus selalu cerita panjang.  
     Kadang cukup tahu ada seseorang yang tetap peduli, itu sudah cukup.  
 
     <br><br>
 
-    Kamu boleh capek, kamu boleh diam, kamu boleh berhenti sebentar.  
+   Kamu boleh capek, kamu boleh diam, kamu boleh berhenti sebentar.  
     Dunia nggak akan berhenti, tapi kamu juga berhak untuk pelan-pelan.  
     Dan kalau suatu saat kamu merasa sendiri,  
     baca ini lagi pelan-pelan… aku masih di sini, nggak kemana-mana. 💙
@@ -110,7 +110,7 @@ button:hover{
 </div>
 
 <script>
-const password = prompt("Masukin password (tanggal lahir Suci: 040906)");
+const password = prompt("Masukin password (tanggal lahir Suci:)");
 
 if(password !== "040906"){
   document.body.innerHTML = `
