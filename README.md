@@ -89,14 +89,14 @@ button:hover{
     Ada hari-hari yang berat, ada pikiran yang ramai,  
     dan kadang semuanya terasa berjalan tanpa jeda.  
 
-    <br><br>
+   <br><br>
 
   Aku nggak janji bisa selalu ngerti semua yang kamu rasakan,  
     tapi aku selalu berusaha ada di sisi yang tenang buat kamu.  
     Nggak harus banyak kata, nggak harus selalu cerita panjang.  
     Kadang cukup tahu ada seseorang yang tetap peduli, itu sudah cukup.  
 
-    <br><br>
+   <br><br>
 
    Kamu boleh capek, kamu boleh diam, kamu boleh berhenti sebentar.  
     Dunia nggak akan berhenti, tapi kamu juga berhak untuk pelan-pelan.  
@@ -119,7 +119,7 @@ if(password !== "040906"){
     <p>Coba pakai tanggal lahir Suci ya 💙</p>
   </div>`;
 }
-
+  
 // love animation
 for(let i=0;i<25;i++){
   let love=document.createElement("div");
